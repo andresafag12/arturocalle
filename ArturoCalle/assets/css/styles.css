@@ -1,0 +1,36 @@
+#buy-basket {
+    background-color: blue;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    color: white;
+    text-align: center;
+}
+
+#buy-basket p {
+    position: relative;
+    top: 7px;
+}
+
+.main-title .logo {
+    width: 90%;
+}
+
+.fa-search {
+    font-size: 1.2rem;
+}
+
+.fa-bars {
+    font-size: 2rem;
+}
+
+.margin-left {
+    margin-left: 5px;
+}
+
+
+/* HELPERS */
+
+.padding-top {
+    padding-top: 5px;
+}
